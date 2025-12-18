@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JarodDeFilippo
-- 👀 I’m interested in AI and machine learning  
-- 🌱 I’m currently studying computer science at ASU
+Computer Science Student @ASU
 
 <!---
 JarodDeFilippo/JarodDeFilippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
